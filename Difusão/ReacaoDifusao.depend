@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1595449583 source:c:\users\maria\desktop\reacaodifusao\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<iostream>
+
